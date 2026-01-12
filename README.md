@@ -27,7 +27,7 @@ The internship involved hands-on development of AI solutions, covering the full 
 
 ## 📂 Repository Structure
 
-Elevvo_AI_Internship/
+Elevvo_AI_Internship/ 
 │── data/                # Datasets used during the internship  
 │── notebooks/           # Jupyter notebooks and experiments  
 │── README.md  
